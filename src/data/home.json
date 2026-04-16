@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "UNEFOLIE — Bem-vindo à Une Folie",
+    "description": "A paixão pela gastronomia que começou com um legado familiar"
+  },
+  "hero": {
+    "title": "Bem-vindo à Une Folie",
+    "subtitle": "A paixão pela gastronomia que começou com um legado familiar",
+    "btnText": "Conheça Nossas Delícias",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Descubra Nossos Diferenciais",
+    "items": [
+      {
+        "icon": "🍽️",
+        "title": "Sabor Inigualável",
+        "desc": "Nossas receitas são fruto de uma tradição familiar que valoriza o sabor em cada prato."
+      },
+      {
+        "icon": "🚚",
+        "title": "Entrega Ágil",
+        "desc": "Com nosso sistema de entrega eficiente, seu pedido chega fresquinho até você."
+      },
+      {
+        "icon": "🎉",
+        "title": "Eventos Personalizados",
+        "desc": "Oferecemos serviços de catering adaptados para tornar seu evento ainda mais especial."
+      },
+      {
+        "icon": "🤝",
+        "title": "Parcerias Sólidas",
+        "desc": "Trabalhamos com fornecedores locais para garantir a qualidade e a frescura dos ingredientes."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre a Une Folie",
+    "desc": "A Une Folie foi criada por Augusto Bittencourt, inspirado pelo amor à culinária que foi passado por seu pai e padrinho. Desde 2015, nossa missão tem sido compartilhar essa paixão com todos, oferecendo pratos que celebram a gastronomia local e as tradições familiares.",
+    "stats": [
+      {
+        "value": "5",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "1000+",
+        "label": "Clientes Satisfeitos"
+      },
+      {
+        "value": "25+",
+        "label": "Eventos Realizados"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

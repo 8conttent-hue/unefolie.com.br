@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o UNEFOLIE"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "A Une Folie foi criada por Augusto Bittencourt, inspirado pelo amor à culinária que foi passado por seu pai e padrinho. Desde 2015, nossa missão tem sido compartilhar essa paixão com todos, oferecendo pratos que celebram a gastronomia local e as tradições familiares."
+  },
+  "content": "Na Une Folie, acreditamos que a comida é uma forma de amor. Nossa história começou com um legado familiar e evoluiu para um projeto que visa levar experiências gastronômicas únicas para cada um de nossos clientes. Estamos presentes no mercado do Paraná e buscamos expandir nossas operações, sempre com o foco na qualidade e no carinho em cada prato.",
+  "mission": "Transformar momentos através da gastronomia, proporcionando experiências memoráveis que unem sabores e emoções.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

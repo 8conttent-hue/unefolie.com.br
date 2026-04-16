@@ -1,0 +1,53 @@
+{
+  "name": "UNEFOLIE",
+  "slug": "unefolie.com.br",
+  "description": "Augusto Bittencourt Meu pai e padrinho seguiram o caminho da cozinha, a convivência e admiração fez com que esse amor pela gastronomia me contaminasse também. Hoje sou grato por ter feito as escolhas que fiz... A criação da Une Folie Hoje temos um site, sistema de entrega, equipe de atendimento...mas essa jornada começou em 2015. Foi muito desejo e coragem no inicio, 5 anos depois de muitas parcerias e vitorias abrimos nossa presença no mercado de revenda e eventos. Hoje estamos consolidados no estado do Paraná, mais ainda buscamos crescer para vizinhos.",
+  "url": "https://unefolie.com.br",
+  "niche": "Gastronomia",
+  "keywords": "Augusto Bittencourt Meu pai e padrinho seguiram o caminho da cozinha a",
+  "email": "contato@unefolie.com.br",
+  "palette": "gold",
+  "colors": {
+    "primary": "#ca8a04",
+    "accent": "#92400e",
+    "dark": "#451a03"
+  },
+  "headerContrast": "light",
+  "font": "outfit",
+  "fontFamily": "'Outfit', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-E",
+    "hero": "Hero-H",
+    "features": "Features-B",
+    "about": "About-G",
+    "posts": "Posts-E",
+    "footer": "Footer-C",
+    "sobre": "Sobre-D",
+    "contato": "Contato-B"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
